@@ -1,0 +1,36 @@
+# Skymation reference data format 1: runway corrections over OurAirports.
+# Airport and runway corrections: Skymation. Runway values from OpenStreetMap (https://www.openstreetmap.org/copyright), (c) OpenStreetMap contributors, made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/). The correction tables are available under the same licence.
+# OpenStreetMap data retrieved 2026-11-15. Not for operational use or navigation.
+ident	le	he	action	newLe	newHe	lengthFt	widthFt	surface	lighted	closed	leHeadingTrue	heHeadingTrue	source
+EDDS	H-NORTH		remove										Skymation: a helipad, not a runway
+EDDS	H-SOUTH		remove										Skymation: a helipad, not a runway
+EDDW	09	27	set	08	26	6693					87.8	267.9	OpenStreetMap way 360390539
+EDNY	06L	24R	remove										Skymation: a glider strip, not a runway of the airport
+LCEN	11R	29L	set			9843	148	CONCRETE			111.8	291.8	OpenStreetMap way 460738620
+LOWI	08G	28G	remove										Skymation: a grass strip, not a runway of the airport
+LOWL	07H	25H	remove										Skymation: not a runway of the airport
+LOWL	08E	26E	remove										Skymation: not a runway of the airport
+LTAC	03L	21R	set			11155	148	ASP			36.1	216.2	OpenStreetMap way 27872288
+LTAC	03R	21L	set			12303	148	ASP			36	216.1	OpenStreetMap way 878871506
+LTAC	03C	21C	add			12303	197	ASP		0	36.2	216.2	OpenStreetMap ways 35552745, 1436415202, 1436415204, 1436429313, 1436429315, 1436429317, 1436429319
+LTAJ	10L	28R	set	10	28	9843	157	CONCRETE			105.1	285.1	OpenStreetMap way 35210151
+LTAP	05	23	set	05R	23L	10604	148	ASPH-CONC			54.5	234.6	OpenStreetMap ways 15103766, 1429034871, 1429034881
+LTAP	05L	23R	add			10636	148	ASPH-CONC		0	54.6	234.7	OpenStreetMap ways 15103835, 1429034885
+LTAT	03	21	set	03R	21L	10991	148	ASP			31.6	211.6	OpenStreetMap ways 82118149, 1429014956, 1429014958
+LTAT	03L	21R	add			10991	148	ASPH-CONC		0	31.5	211.5	OpenStreetMap ways 574050540, 1429014955, 1429014960
+LTAW	04	22	set							1			Skymation: the runway of the former Tokat airport
+LTBY	09	27	set			9843	148	CONCRETE					OpenStreetMap way 35884476
+LTCA	07	25	set	07R	25L						76.2	256.2	OpenStreetMap way 1427975491
+LTCA	07L	25R	add			9843	148	CONCRETE		0	75.9	255.9	OpenStreetMap way 1427975496
+LTCF	06	24	set	06R	24L						64.6	244.7	OpenStreetMap way 645472290
+LTCF	06L	24R	add			11483	148	CONCRETE		0	64.5	244.6	OpenStreetMap ways 680397875, 1426831221
+LTCK	11	29	set	11L	29R						116.3	296.3	OpenStreetMap way 653708462
+LTCK	11R	29L	add			11647	75	ASPH-CONC		0	116.3	296.3	OpenStreetMap way 16092704
+LTCL	06	24	set			6562							OpenStreetMap way 28358898
+LTCN	08	26	set	07	25		148				75.1	255.1	OpenStreetMap way 15733929
+LTCT	12	30	set								129.2	309.2	OpenStreetMap way 1278424478
+LTCV	11	29	set								115.6	295.6	OpenStreetMap way 1198480625
+LTDB	03L	21R	set				148				31.5	211.5	OpenStreetMap ways 845716145, 1431694748
+LTDB	03R	21L	set								31.4	211.4	OpenStreetMap way 845716144
+LTFE	10R	28L	set							1			Skymation: not a runway of the airport
+LTFM	09	27	set							1			Skymation: under construction (OpenStreetMap way 1537639378)

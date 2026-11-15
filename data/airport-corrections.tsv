@@ -1,0 +1,85 @@
+# Skymation reference data format 1: airport corrections over OurAirports (served city names, frequency labels).
+# Skymation's own data, made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/) with the runway corrections. Not for operational use or navigation.
+ident	kind	key	value	valueTR	source
+BKPR	city		Pristina	Priştine	Skymation
+EBBR	city		Brussels	Brüksel	Skymation
+EBLG	city		Liège		Skymation
+EDDG	city		Münster		Skymation
+EDDK	city		Cologne	Köln	Skymation
+EDDM	city		Munich	Münih	Skymation
+EDDN	city		Nuremberg	Nürnberg	Skymation
+EDDP	city		Leipzig		Skymation
+EDFH	city		Hahn		Skymation
+EDLP	city		Paderborn		Skymation
+EDSB	city		Karlsruhe		Skymation
+EDVK	city		Kassel		Skymation
+EFHK	city		Helsinki		Skymation
+EGBB	city		Birmingham		Skymation
+EGCC	city		Manchester		Skymation
+EGGW	city		Luton		Skymation
+EGKK	city		London	Londra	Skymation
+EGLL	city		London	Londra	Skymation
+EGNM	city		Leeds		Skymation
+EGNT	city		Newcastle		Skymation
+EGNX	city		East Midlands		Skymation
+EGPH	city		Edinburgh	Edinburg	Skymation
+EGSS	city		London	Londra	Skymation
+ELLX	city		Luxembourg	Lüksemburg	Skymation
+ENGM	city		Oslo		Skymation
+EPKK	city		Kraków	Krakov	Skymation
+EPWA	city		Warsaw	Varşova	Skymation
+ESGG	city		Gothenburg	Göteborg	Skymation
+HESH	city		Sharm El Sheikh	Şarm El-Şeyh	Skymation
+LATI	city		Tirana	Tiran	Skymation
+LCEN	city		Nicosia	Lefkoşa	Skymation
+LCGK	city		Geçitkale		Skymation
+LDZA	city		Zagreb		Skymation
+LFBO	city		Toulouse		Skymation
+LFLL	city		Lyon		Skymation
+LFML	city		Marseille	Marsilya	Skymation
+LFMN	city		Nice		Skymation
+LFPG	city		Paris		Skymation
+LFPO	city		Paris		Skymation
+LFSB	city		Basel		Skymation
+LFST	city		Strasbourg	Strazburg	Skymation
+LGAV	city		Athens	Atina	Skymation
+LGRP	city		Rhodes	Rodos	Skymation
+LGSR	city		Santorini		Skymation
+LGTS	city		Thessaloniki	Selanik	Skymation
+LHBP	city		Budapest	Budapeşte	Skymation
+LIMC	city		Milan	Milano	Skymation
+LIML	city		Milan	Milano	Skymation
+LIPZ	city		Venice	Venedik	Skymation
+LIRN	city		Naples	Napoli	Skymation
+LJLJ	city		Ljubljana		Skymation
+LKPR	city		Prague	Prag	Skymation
+LOWG	city		Graz		Skymation
+LOWK	city		Klagenfurt		Skymation
+LPPT	city		Lisbon	Lizbon	Skymation
+LQSA	city		Sarajevo	Saraybosna	Skymation
+LQTZ	city		Tuzla		Skymation
+LROP	city		Bucharest	Bükreş	Skymation
+LSGG	city		Geneva	Cenevre	Skymation
+LSZA	city		Lugano		Skymation
+LTAF	city		Adana		Skymation
+LTBA	city		Istanbul	İstanbul	Skymation
+LTBQ	city		Kocaeli		Skymation
+LTBR	city		Bursa		Skymation
+LTBU	city		Tekirdağ		Skymation
+LTBZ	city		Kütahya		Skymation
+LTDA	city		Hatay		Skymation
+LTFE	frequencyLabel	APP 119.500	APP		Skymation: OurAirports gave it LTBJ's label
+LTFE	frequencyRemove	APP 119.775			Skymation: not one of the airport's approach frequencies
+LTFE	frequencyRemove	GND 121.950			Skymation: not the airport's ground frequency
+LWSK	city		Skopje	Üsküp	Skymation
+LYBE	city		Belgrade	Belgrad	Skymation
+OEJN	city		Jeddah	Cidde	Skymation
+OERK	city		Riyadh	Riyad	Skymation
+OLBA	city		Beirut	Beyrut	Skymation
+ORBI	city		Baghdad	Bağdat	Skymation
+ORER	city		Erbil		Skymation
+ORNI	city		Najaf	Necef	Skymation
+ORSU	city		Sulaymaniyah	Süleymaniye	Skymation
+UBBB	city		Baku	Bakü	Skymation
+UDYZ	city		Yerevan	Erivan	Skymation
+UGTB	city		Tbilisi	Tiflis	Skymation
