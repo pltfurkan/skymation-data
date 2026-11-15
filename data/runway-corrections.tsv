@@ -1,5 +1,5 @@
 # Skymation reference data format 1: runway corrections over OurAirports.
-# Airport and runway corrections: Skymation. Runway values from OpenStreetMap (https://www.openstreetmap.org/copyright), (c) OpenStreetMap contributors, made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/). The correction tables are available under the same licence.
+# Airport and runway corrections: Skymation. Runway values from OpenStreetMap (https://www.openstreetmap.org/copyright), (c) OpenStreetMap contributors, made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/). The correction tables are available under the same licence at https://github.com/pltfurkan/skymation-data.
 # OpenStreetMap data retrieved 2026-11-15. Not for operational use or navigation.
 ident	le	he	action	newLe	newHe	lengthFt	widthFt	surface	lighted	closed	leHeadingTrue	heHeadingTrue	source
 EDDS	H-NORTH		remove										Skymation: a helipad, not a runway

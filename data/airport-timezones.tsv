@@ -1,5 +1,5 @@
 # Skymation reference data format 1: airport time zones (derivative database).
-# Airport time zones derived from timezone-boundary-builder 2026c (https://github.com/evansiroky/timezone-boundary-builder), (c) OpenStreetMap contributors (https://www.openstreetmap.org/copyright), made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/). The derived airport time zone table is available under the same licence.
+# Airport time zones derived from timezone-boundary-builder 2026c (https://github.com/evansiroky/timezone-boundary-builder), (c) OpenStreetMap contributors (https://www.openstreetmap.org/copyright), made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/). The derived airport time zone table is available under the same licence at https://github.com/pltfurkan/skymation-data.
 # Airport coordinates: OurAirports, public domain, fetched 2026-09-29.
 ident	tz
 03N	Pacific/Majuro
