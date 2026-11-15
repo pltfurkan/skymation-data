@@ -13,7 +13,7 @@ of accuracy or fitness for use.
 | File | What it is | Rows |
 | --- | --- | --- |
 | `data/airport-timezones.tsv` | Airport ident → IANA time zone | 9,612 |
-| `data/runway-corrections.tsv` | Corrections Skymation applies over the OurAirports runway table | 33 |
+| `data/runway-corrections.tsv` | Corrections Skymation applies over the OurAirports runway table (including runway mid-points used to draw parallel runways in their real order) | 33 |
 | `data/airport-corrections.tsv` | Corrections Skymation applies over the OurAirports airport and frequency tables (served city names in English and Turkish, frequency labels) | 83 |
 
 Each table is also published as the exact `.tsv.gz` file bundled in the app.
