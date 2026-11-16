@@ -1,4 +1,4 @@
-# Skymation reference data format 1: airport corrections over OurAirports (served city names, frequency labels).
+# Skymation reference data format 1: airport corrections over OurAirports (served city and country names, frequency labels).
 # Skymation's own data, made available under the Open Database License (https://opendatacommons.org/licenses/odbl/1-0/) with the runway corrections. Not for operational use or navigation.
 ident	kind	key	value	valueTR	source
 BKPR	city		Pristina	Priştine	Skymation
@@ -31,8 +31,10 @@ EPWA	city		Warsaw	Varşova	Skymation
 ESGG	city		Gothenburg	Göteborg	Skymation
 HESH	city		Sharm El Sheikh	Şarm El-Şeyh	Skymation
 LATI	city		Tirana	Tiran	Skymation
-LCEN	city		Nicosia	Lefkoşa	Skymation
+LCEN	city		Ercan		Skymation
+LCEN	country		TRNC	KKTC	Skymation
 LCGK	city		Geçitkale		Skymation
+LCGK	country		TRNC	KKTC	Skymation
 LDZA	city		Zagreb		Skymation
 LFBO	city		Toulouse		Skymation
 LFLL	city		Lyon		Skymation

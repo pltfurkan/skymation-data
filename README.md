@@ -12,11 +12,12 @@ of accuracy or fitness for use.
 
 | File | What it is | Rows |
 | --- | --- | --- |
-| `data/airport-timezones.tsv` | Airport ident → IANA time zone | 9,612 |
+| `data/airport-timezones.tsv` | Airport ident → IANA time zone | 9,611 |
 | `data/runway-corrections.tsv` | Corrections Skymation applies over the OurAirports runway table (including runway mid-points used to draw parallel runways in their real order) | 33 |
-| `data/airport-corrections.tsv` | Corrections Skymation applies over the OurAirports airport and frequency tables (served city names in English and Turkish, frequency labels) | 83 |
+| `data/airport-corrections.tsv` | Corrections Skymation applies over the OurAirports airport and frequency tables (served city and country names in English and Turkish, frequency labels) | 84 |
 
-Each table is also published as the exact `.tsv.gz` file bundled in the app.
+Rows are data rows, without the column header and the `#` notice lines. Each
+table is also published as the exact `.tsv.gz` file bundled in the app.
 `SHA256SUMS` lists the SHA-256 of every file, so a copy can be matched to an app
 build. Lines starting with `#` are the notices shipped in each file.
 
